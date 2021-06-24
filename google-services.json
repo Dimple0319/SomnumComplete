@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540353572254",
+    "project_id": "somnum-5bbee",
+    "storage_bucket": "somnum-5bbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540353572254:android:bc7a72d58b0fe1a7693a8f",
+        "android_client_info": {
+          "package_name": "com.noaimnolab.somnum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540353572254-e0c1pipun2uedba0v6aaacmbo8mm22vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaQLfFf9nC1gy-WFx47gdRG0w2qiFsKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540353572254-e0c1pipun2uedba0v6aaacmbo8mm22vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
